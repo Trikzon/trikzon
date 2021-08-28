@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 | - | - | - |
 | [CHIRP-8](https://github.com/trikzon/chirp-8) | Rust | A CHIP-8 emulator suite using OpenGL. |
 | [Daily Wallpaper](https://github.com/trikzon/daily-wallpaper) | Python | A script that grabs today's top r/wallpaper and sets it as your desktop wallpaper. |
-| [Myra](https://github.com/trikzon/myra) | Rust | A hobby game engine using OpenGL. |
+| [Myra](https://github.com/trikzon/myra) | Rust | A voxel civilization building game written with Rust and OpenGL. |
 | [Oxid OS](https://github.com/trikzon/oxid-os) | Rust | A hobby operating system. |
 
 #### Minecraft Mods
