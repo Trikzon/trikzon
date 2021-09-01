@@ -6,7 +6,7 @@ I am an incoming Computer Science student [@UniversityOfSouthFlorida](https://gi
 
 I co-own [@DodoGangMods](https://github.com/dodogang), a Minecraft Modding team.
 
-- 🔭 I’m currently working on [Myra](https://github.com/trikzon/myra), a hobby game engine written in Rust.
+- 🔭 I’m currently working on [Myra](https://github.com/trikzon/myra), a cuboid civilization building game using [LWJGL](https://lwjgl.org).
 - 😄 Pronouns: he/him or they/them
 - 📫 How to reach me:
   - School: `diontryban@usf.edu`
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 | - | - | - |
 | [CHIRP-8](https://github.com/trikzon/chirp-8) | Rust | A CHIP-8 emulator suite using OpenGL. |
 | [Daily Wallpaper](https://github.com/trikzon/daily-wallpaper) | Python | A script that grabs today's top r/wallpaper and sets it as your desktop wallpaper. |
-| [Myra](https://github.com/trikzon/myra) | Java | A voxel civilization building game written with LWJGL. |
+| [Myra](https://github.com/trikzon/myra) | Java | A cuboid civilization building game using [LWJGL](https://lwjgl.org). |
 | [Oxid OS](https://github.com/trikzon/oxid-os) | Rust | A hobby operating system. |
 
 #### Minecraft Mods
