@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am an incoming Computer Science student [@UniversityOfSouthFlorida](https://github.com/University-of-South-Florida).
+I am a Computer Science student [@UniversityOfSouthFlorida](https://github.com/University-of-South-Florida).
 
 I co-own [@DodoGangMods](https://github.com/dodogang), a Minecraft Modding team.
 
