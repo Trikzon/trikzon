@@ -10,7 +10,7 @@ I co-own [@DodoGangMods](https://github.com/dodogang), a Minecraft Modding team.
 - 😄 Pronouns: he/him or they/them
 - 📫 How to reach me:
   - School: `diontryban@usf.edu`
-  - Non-School professional: `diontryban@protonmail.com`
+  - Non-School professional: `me@diontryban.com`
   - Friend in real life: Text
   - Friend online: @Trikzon#6103 on Discord
 
