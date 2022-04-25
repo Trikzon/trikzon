@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 | - | - | - |
 | [CHIRP-8](https://github.com/trikzon/chirp-8) | Rust | A CHIP-8 emulator suite using OpenGL. |
 | [Daily Wallpaper](https://github.com/trikzon/daily-wallpaper) | Python | A script that grabs today's top r/wallpaper and sets it as your desktop wallpaper. |
-| [Diorama](https://github.com/trikzon/diorama | Java | 3D island generator using Wave Function Collapse. |
+| [Diorama](https://github.com/trikzon/diorama) | Java | 3D island generator using Wave Function Collapse. |
 | [Oxid OS](https://github.com/trikzon/oxid-os) | Rust | A hobby operating system. |
 
 #### Minecraft Mods
