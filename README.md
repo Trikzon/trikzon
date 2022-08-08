@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 | [Flora Doubling](https://github.com/trikzon/flora-doubling) | [![](http://cf.way2muchnoise.eu/full_332831_Fabric.svg)](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric) [![](http://cf.way2muchnoise.eu/full_410507_Forge.svg)](https://www.curseforge.com/minecraft/mc-mods/flora-doubling) | Duplicate small flowers with bonemeal. |
 | [Pitch Dark](https://github.com/trikzon/pitch-dark) | [![](http://cf.way2muchnoise.eu/full_503802_Downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/pitch-dark) | Forces hostile mobs to only spawn in complete darkness. |
 | [Shuffle](https://github.com/trikzon/shuffle) | [![](http://cf.way2muchnoise.eu/full_360916_Fabric.svg)](https://www.curseforge.com/minecraft/mc-mods/shuffle) | Lets you place random blocks from your hotbar with ease. |
-| [STB†](https://github.com/trikzon/sneak-through-berries) | [![](http://cf.way2muchnoise.eu/full_324945_Fabric.svg)](https://www.curseforge.com/minecraft/mc-mods/sneak-through-berries-fabric) | Lets you sneak through sweet berries without taking damage. |
+| [Sneak Through Berries](https://github.com/trikzon/sneak-through-berries) | [![](http://cf.way2muchnoise.eu/full_324945_Fabric.svg)](https://www.curseforge.com/minecraft/mc-mods/sneak-through-berries-fabric) | Lets you sneak through sweet berries without taking damage. |
 | [Transparent](https://github.com/trikzon/transparent) | [![](http://cf.way2muchnoise.eu/full_377582_Fabric.svg)](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | Allows resource packs to use transparent textures on entities‡. |
 
 - *All minecraft mods are written in Java.
