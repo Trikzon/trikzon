@@ -12,7 +12,7 @@ I co-own [@DodoGangMods](https://github.com/dodogang), a Minecraft Modding team.
   - School: `diontryban@usf.edu`
   - Non-School professional: `me@diontryban.com`
   - Friend in real life: Text
-  - Friend online: @Trikzon#6103 on Discord
+  - Friend online: @Trikzon#3423 on Discord
 
 <!--
 **Trikzon/trikzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
