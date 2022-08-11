@@ -6,7 +6,7 @@ I am a Computer Science student [@UniversityOfSouthFlorida](https://github.com/U
 
 I co-own [@DodoGangMods](https://github.com/dodogang), a Minecraft Modding team.
 
-- 🔭 I’m currently working on [Myra](https://github.com/trikzon/myra), a game engine written in [Kotlin](https://kotlinlang.org/) using [LibGDX](https://libgdx.com/).
+- 🔭 I’m currently working on [my website](https://diontryban.com). Code can be viewed [here](https://github.com/trikzon/diontryban.com).
 - 😄 Pronouns: he/him or they/them
 - 📫 How to reach me:
   - School: `diontryban@usf.edu`
