@@ -56,9 +56,4 @@ Here are some ideas to get you started:
 
 ---
 
-<div>
-  <img
-    align="center"
-    src=https://github-readme-stats.vercel.app/api?username=trikzon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&custom_title=Stats
-  />
-</div>
+![Snake Chart](https://raw.githubusercontent.com/Trikzon/trikzon/output/github-contribution-grid-snake.svg)
