@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Computer Science student [@UniversityOfSouthFlorida](https://github.com/University-of-South-Florida).
+I am a Computer Science student.
 
 I am a Software Developer, Minecraft Modder, and Indie Game Developer.
 
