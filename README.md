@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Computer Science student.
+I am a Computer Science student at [Florida State University](https://www.cs.fsu.edu/).
 
 I am a Software Developer, Minecraft Modder, and Indie Game Developer.
 
